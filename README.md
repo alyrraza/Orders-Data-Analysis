@@ -1,6 +1,6 @@
 # Data Analysis Project
 
-This project involves data cleaning using Python and data analysis using SQL to gain insights from e-commerce sales data. Below are the detailed descriptions of the SQL queries used for analysis.
+This project involves data cleaning using `Python` and data analysis using `SQL` to gain insights from e-commerce sales data. Below are the detailed descriptions of the SQL queries used for analysis.
 
 ## Table of Contents
 
